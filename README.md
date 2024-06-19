@@ -5,7 +5,9 @@
 This repository contains the UI design files for the "Explore the Wild Hearts of India" brochure. The design aims to provide an immersive and informative experience for users, highlighting India's diverse wildlife through intuitive navigation and visually appealing layouts.
 
 **Features**
+
 Engaging Visuals: High-quality images and illustrations to captivate users.
+
 User-Friendly Navigation: Intuitive design to ensure easy access to information.
 Informative Content: Detailed sections on various wildlife species and conservation efforts.
 Responsive Design: Optimized for different devices and screen sizes.
