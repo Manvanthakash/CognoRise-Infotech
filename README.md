@@ -2,16 +2,16 @@
 
 # Brochure: Explore the Wild Hearts Of India
 
-This repository contains the UI design files for the "Explore the Wild Hearts of India" brochure. The design aims to provide an immersive and informative experience for users, highlighting India's diverse wildlife through intuitive navigation and visually appealing layouts.
+This repository contains the UI design files for the "Explore the Wild Hearts of India" brochure. The design aims to provide an immersive and informative experience for users, highlighting India's diverse wildlife through visually appealing layouts.
 
 **Features**
 
-Engaging Visuals: High-quality images and illustrations to captivate users.
+Engaging Visuals: High-quality images and illustrations to captivate users.  
 Informative Content: Detailed sections on various wildlife species.
 
 **Contents**
 
-Design Files: Figma files with all layouts.
+Design Files: Figma files with all layouts.  
 Assets: Images, icons, and illustrations used in the design.
 
 **Usage**
