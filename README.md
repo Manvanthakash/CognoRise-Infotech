@@ -7,15 +7,15 @@ This repository contains the UI design files for the "Explore the Wild Hearts of
 **Features**
 
 Engaging Visuals: High-quality images and illustrations to captivate users.
+Informative Content: Detailed sections on various wildlife species.
 
-User-Friendly Navigation: Intuitive design to ensure easy access to information.
-Informative Content: Detailed sections on various wildlife species and conservation efforts.
-Responsive Design: Optimized for different devices and screen sizes.
-Contents
-Design Files: Sketch/Figma files with all UI components and layouts.
+**Contents**
+
+Design Files: Figma files with all layouts.
 Assets: Images, icons, and illustrations used in the design.
-Documentation: Guidelines and notes on the design process and implementation.
-Usage
+
+**Usage**
+
 Feel free to explore, adapt, and use the design for educational and conservation projects. Contributions and suggestions are welcome to enhance the design further.
 
 Figma File: https://www.figma.com/design/Ypxfqf9g7FGhvYBGcHzflB/Brochure%3A-Indian-Wildlife?node-id=65-16&t=hrsDzbAWgSEkxGyF-1
