@@ -14,7 +14,6 @@ This repository contains the UI/UX design files for Sneaker Sphere, a cutting-ed
 
 ## Files Included
 
-- **Wireframes**: Initial sketches and wireframes outlining the app’s structure and flow.
 - **Mockups**: High-fidelity mockups showcasing the visual design and layout.
 - **Prototypes**: Interactive prototypes demonstrating the app's user interactions.
 - **Style Guide**: Comprehensive style guide including color schemes, typography, and UI elements.
