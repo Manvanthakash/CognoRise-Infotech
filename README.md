@@ -1,4 +1,4 @@
-# CognoRise-Infotech
+
 # Sneaker Sphere E-commerce App UI/UX Design
 
 This repository contains the UI/UX design files for Sneaker Sphere, a cutting-edge e-commerce application tailored for sneaker enthusiasts. The design focuses on providing a seamless and engaging user experience, incorporating modern design principles and user-centric features.
